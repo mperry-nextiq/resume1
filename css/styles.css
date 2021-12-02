@@ -1,0 +1,19 @@
+div.main {
+    display: flex;
+    background-color: black;
+    height: 200px;
+    width: 50%;
+}
+
+div.section {
+    background-color: pink;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+div.divCatContainer {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
